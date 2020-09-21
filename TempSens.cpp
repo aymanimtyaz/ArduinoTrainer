@@ -1,3 +1,6 @@
+""" INITALIZE AND GET CURRENT TEMPRATURE FROM A TEMPRATURE SENSOR """
+
+
 char c1=0;                                           
 void setup() 
 {
