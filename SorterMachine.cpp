@@ -107,5 +107,5 @@ return 3;                                               //the color is yellow
 else if((r>210&&r<220)&&(g>235&&g<245))
 return 4;                                               //the color is purple
 else
-return 0;                                               //none of the required colors were recieved
+return 0;                                               
 }
