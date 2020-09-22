@@ -4,7 +4,7 @@ Servo bottomServo;                                      //second servo
 const int s2=6;                                         //setting s2 to pwm pin 6
 const int s3=7;                                         //setting s3 to pwm pin 7
 const int sensor_output=8;                              //the sensor output will be recieved at digital pin 8
-void setup() 
+void setup()                                            //initializing pin configration
 {
 topServo.attach(10);                           
 bottomServo.attach(11);
